@@ -17,7 +17,7 @@ It is divided the each adjusted value to the first one to observe how stock pric
 package which makes the plots interactive easily.
 
 
-## Social Media Platforms Stock Prices 
+## SOCIAL MEDIA PLATFORMS STOCK PRICES 
 
 ![socialmediaplot](https://user-images.githubusercontent.com/70109399/155884234-491b3ae1-24ae-47fa-bec4-4cd01b02da50.png)
 
