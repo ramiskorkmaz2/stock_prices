@@ -13,7 +13,7 @@ Stock prices file includes two different **interaktive** projects. The first one
 #### ABOUT
 
 We import HEPSIBURADA stock prices by using getSymbols function as ´´HEPS´´. We struggle with the Adjusted column which is the close value.
-It is divided the each adjusted value to the first one to observe how stock price changes over time. After making the dataset usable, we visualizemit by ´plotly´
+It is divided the each adjusted value to the first one to observe how stock price changes over time. After making the dataset usable, we visualize it by ´plotly´
 package which makes the plots interactive easily.
 
 
